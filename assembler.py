@@ -35,6 +35,4 @@ def read():
             lst.append(i)
     return lst
 
-
-
 read()
