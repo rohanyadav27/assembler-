@@ -26,7 +26,7 @@ b_type_instructions = {
 j_type_instructions = {
     "jal": {"opcode": "1101111"}
 }
-
+//
 def read():
     lst = []
     x = input("Enter input file: ")
