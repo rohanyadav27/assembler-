@@ -27,7 +27,7 @@ j_type_instructions = {
     "jal": {"opcode": "1101111"}
 }
 
-
+// rao sahab
 def read():
     lst = []
     x = input("Enter input file: ")
